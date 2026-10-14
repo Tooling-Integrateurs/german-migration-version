@@ -1,0 +1,14 @@
+{
+  "version": "0.1.0",
+  "released_at": "2026-10-14",
+  "notes": {
+    "en": "Alpha 0.1.0, first field test: full tool, DATEV session console (connection test, extraction, conversion, checks, report without personal data), Windows login for DATEVconnect.",
+    "de": "Alpha 0.1.0, erster Praxistest: komplettes Tool, DATEV-Sitzungskonsole (Verbindungstest, Extraktion, Umwandlung, Prüfungen, Bericht ohne personenbezogene Daten), Windows-Anmeldung für DATEVconnect.",
+    "fr": "Alpha 0.1.0, premier test terrain : outil complet, console de session DATEV (test de connexion, extraction, conversion, contrôles, rapport sans données personnelles), connexion Windows à DATEVconnect."
+  },
+  "how_to_get": {
+    "en": "Ask your Pennylane migration contact for the new package.",
+    "de": "Frag deinen Pennylane-Migrationskontakt nach dem neuen Paket.",
+    "fr": "Demande le nouveau paquet à ton contact migration Pennylane."
+  }
+}
