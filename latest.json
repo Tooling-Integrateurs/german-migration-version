@@ -1,10 +1,10 @@
 {
-  "version": "0.1.0",
-  "released_at": "2026-10-14",
+  "version": "0.1.1",
+  "released_at": "2026-10-19",
   "notes": {
-    "en": "Alpha 0.1.0, first field test: full tool, DATEV session console (connection test, extraction, conversion, checks, report without personal data), Windows login for DATEVconnect.",
-    "de": "Alpha 0.1.0, erster Praxistest: komplettes Tool, DATEV-Sitzungskonsole (Verbindungstest, Extraktion, Umwandlung, Prüfungen, Bericht ohne personenbezogene Daten), Windows-Anmeldung für DATEVconnect.",
-    "fr": "Alpha 0.1.0, premier test terrain : outil complet, console de session DATEV (test de connexion, extraction, conversion, contrôles, rapport sans données personnelles), connexion Windows à DATEVconnect."
+    "en": "Alpha 0.1.1: precise session logs for Pennylane (a session log without personal data, every run of each step kept, real error codes instead of 0), retry of single endpoints in step 2, readable step results, fixes.",
+    "de": "Alpha 0.1.1: genaue Sitzungsprotokolle für Pennylane (Sitzungsprotokoll ohne personenbezogene Daten, jeder Lauf jedes Schritts bleibt erhalten, echte Fehlercodes statt 0), einzelne Endpunkte in Schritt 2 wiederholen, lesbare Schrittergebnisse, Korrekturen.",
+    "fr": "Alpha 0.1.1 : journaux de session précis pour Pennylane (journal de session sans données personnelles, chaque passage de chaque étape conservé, vrais codes d’erreur au lieu de 0), relance d’un endpoint seul à l’étape 2, résultats d’étape lisibles, corrections."
   },
   "how_to_get": {
     "en": "Ask your Pennylane migration contact for the new package.",
