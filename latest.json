@@ -1,10 +1,10 @@
 {
-  "version": "0.1.2",
-  "released_at": "2026-10-21",
+  "version": "0.1.3",
+  "released_at": "2026-11-13",
   "notes": {
-    "en": "Alpha 0.1.2: a session log that sums the calls about the Mandanten not selected (no order, no name or number), a package with only what the tool runs, steps 2 and 3 never at the same time, clearer step cards, fixes.",
-    "de": "Alpha 0.1.2: ein Sitzungsprotokoll, das die Aufrufe zu den nicht gewählten Mandanten zusammenzählt (ohne Reihenfolge, ohne Name oder Nummer), ein Paket nur mit dem, was das Tool ausführt, Schritte 2 und 3 nie gleichzeitig, klarere Schrittkarten, Korrekturen.",
-    "fr": "Alpha 0.1.2 : journal de session qui additionne les appels concernant les Mandanten non sélectionnés (sans ordre, sans nom ni numéro), paquet réduit à ce que l’outil exécute, étapes 2 et 3 jamais en même temps, cartes d’étape plus claires, corrections."
+    "en": "Alpha 0.1.3: step 3 reads only the selected Mandant, and its batches in parallel (about half the requests), step 1b loads its Mandanten in parallel, a faster Windows sign-in, account labels and foreign-currency amounts read again in step 4, a balance check that matches Pennylane's trial balance, fixes.",
+    "de": "Alpha 0.1.3: Schritt 3 liest nur den gewählten Mandanten und seine Stapel parallel (etwa halb so viele Anfragen), Schritt 1b lädt seine Mandanten parallel, eine schnellere Windows-Anmeldung, Kontenbeschriftungen und Fremdwährungsbeträge in Schritt 4 wieder gelesen, eine Saldenprüfung passend zur Pennylane-Saldenliste, Korrekturen.",
+    "fr": "Alpha 0.1.3 : l’étape 3 ne lit que le Mandant choisi, et ses lots en parallèle (environ moitié moins de requêtes), l’étape 1b charge ses Mandanten en parallèle, connexion Windows plus rapide, libellés de comptes et montants en devise relus à l’étape 4, contrôle de balance aligné sur la balance Pennylane, corrections."
   },
   "how_to_get": {
     "en": "Ask your Pennylane migration contact for the new package.",
