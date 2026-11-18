@@ -1,10 +1,10 @@
 {
-  "version": "0.1.3",
-  "released_at": "2026-11-13",
+  "version": "0.1.4",
+  "released_at": "2026-11-18",
   "notes": {
-    "en": "Alpha 0.1.3: step 3 reads only the selected Mandant, and its batches in parallel (about half the requests), step 1b loads its Mandanten in parallel, a faster Windows sign-in, account labels and foreign-currency amounts read again in step 4, a balance check that matches Pennylane's trial balance, fixes.",
-    "de": "Alpha 0.1.3: Schritt 3 liest nur den gewählten Mandanten und seine Stapel parallel (etwa halb so viele Anfragen), Schritt 1b lädt seine Mandanten parallel, eine schnellere Windows-Anmeldung, Kontenbeschriftungen und Fremdwährungsbeträge in Schritt 4 wieder gelesen, eine Saldenprüfung passend zur Pennylane-Saldenliste, Korrekturen.",
-    "fr": "Alpha 0.1.3 : l’étape 3 ne lit que le Mandant choisi, et ses lots en parallèle (environ moitié moins de requêtes), l’étape 1b charge ses Mandanten en parallèle, connexion Windows plus rapide, libellés de comptes et montants en devise relus à l’étape 4, contrôle de balance aligné sur la balance Pennylane, corrections."
+    "en": "Alpha 0.1.4: Mandanten picked by number or from a CSV on the DATEV API page, a new optional step 1c that reads every DATEVconnect endpoint for the selected Mandant and says what it answered (DMS included), clearer connection-test hints with DATEV's error code.",
+    "de": "Alpha 0.1.4: Mandanten per Nummer oder aus einer CSV auf der DATEV-API-Seite wählen, ein neuer optionaler Schritt 1c, der jeden DATEVconnect-Endpunkt für den gewählten Mandanten liest und sagt, was er geantwortet hat (DMS inklusive), klarere Hinweise im Verbindungstest mit dem DATEV-Fehlercode.",
+    "fr": "Alpha 0.1.4 : Mandanten choisis par numéro ou depuis un CSV sur la page DATEV API, nouvelle étape 1c optionnelle qui lit chaque endpoint DATEVconnect pour le Mandant choisi et dit ce qu’il a répondu (GED comprise), indices du test de connexion plus clairs avec le code d’erreur DATEV."
   },
   "how_to_get": {
     "en": "Ask your Pennylane migration contact for the new package.",
